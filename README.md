@@ -20,8 +20,6 @@ AspNet Core 9.0 Asp.Net Core Api MVC MSSQL Html Css Bootstrap JavaScript Ajax En
 
 ![Image](https://github.com/user-attachments/assets/1eb68d55-9d4f-4b09-b858-63d2060ac1b0)
 
-![Image](https://github.com/user-attachments/assets/27bfa7a1-7412-49c8-ab4f-420e1a8cbc73)
-
 ![Image](https://github.com/user-attachments/assets/673ad437-146c-4f07-8539-036c061d59f0)
 
 ![Image](https://github.com/user-attachments/assets/e23f190f-c029-493a-9b68-520ee2babcb5)
