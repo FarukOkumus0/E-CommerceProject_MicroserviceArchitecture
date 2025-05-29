@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Services\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Services\\Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "FrontEnd\\Mango.Web\\Mango.Web.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Services\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Services\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Services\\Mango.Services.EmailAPI\\Mango.Services.EmailAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Services\\Mango.Service.OrderAPI\\Mango.Services.OrderAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Services\\Mango.Services.RewardAPI\\Mango.Services.RewardAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]

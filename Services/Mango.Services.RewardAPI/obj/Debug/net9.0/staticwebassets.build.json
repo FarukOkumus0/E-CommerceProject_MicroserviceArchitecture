@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BzQI/0aFrkZ4oTLXGqmfz8U7+oiwlPrAd9Kou9gCKn8=",
+  "Source": "Mango.Services.RewardAPI",
+  "BasePath": "_content/Mango.Services.RewardAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

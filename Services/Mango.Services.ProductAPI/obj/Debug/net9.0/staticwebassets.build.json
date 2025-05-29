@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "oAJ31BiZFYM0XmUV/pg8LuvDNdRlTlgiC/3AB83tIBA=",
+  "Source": "Mango.Services.ProductAPI",
+  "BasePath": "_content/Mango.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mango.Services.ProductAPI\\wwwroot",
+      "Source": "Mango.Services.ProductAPI",
+      "ContentRoot": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2vpuv6i9s5",
+      "Integrity": "bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\11.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xnvdghy80",
+      "Integrity": "LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\12.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afqsbczg8e",
+      "Integrity": "OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\2.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n7k6cfk74b",
+      "Integrity": "09OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK+hMys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\3.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jz7agbh6xs",
+      "Integrity": "7/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\4.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n7ia496m75",
+      "Integrity": "TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\4.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ProductImages/1.2vpuv6i9s5.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 20:55:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2vpuv6i9s5"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductImages/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/1.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 20:55:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/11.0xnvdghy80.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 21:14:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xnvdghy80"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductImages/11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/11.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 21:14:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/12.afqsbczg8e.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 21:27:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afqsbczg8e"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductImages/12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/12.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 21:27:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/2.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"09OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK+hMys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 20:43:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-09OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK+hMys="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/2.n7k6cfk74b.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"09OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK+hMys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 20:43:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n7k6cfk74b"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductImages/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-09OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK+hMys="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/3.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 20:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/3.jz7agbh6xs.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 20:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jz7agbh6xs"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductImages/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/4.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 21:07:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8="
+        }
+      ]
+    },
+    {
+      "Route": "ProductImages/4.n7ia496m75.jpg",
+      "AssetFile": "C:\\Users\\faruk\\source\\repos\\Mango\\Services\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 21:07:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n7ia496m75"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductImages/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8="
+        }
+      ]
+    }
+  ]
+}

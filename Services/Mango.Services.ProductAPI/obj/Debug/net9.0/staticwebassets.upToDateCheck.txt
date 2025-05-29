@@ -1,0 +1,6 @@
+wwwroot\ProductImages\1.jpg
+wwwroot\ProductImages\11.jpg
+wwwroot\ProductImages\12.jpg
+wwwroot\ProductImages\2.jpg
+wwwroot\ProductImages\3.jpg
+wwwroot\ProductImages\4.jpg

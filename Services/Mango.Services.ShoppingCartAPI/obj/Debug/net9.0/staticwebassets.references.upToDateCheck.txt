@@ -1,0 +1,3 @@
+C:\Users\faruk\source\repos\Mango\Services\Mango.Services.ProductAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\faruk\source\repos\Mango\Services\Mango.Services.ProductAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\faruk\source\repos\Mango\Services\Mango.Services.ProductAPI\obj\Debug\net9.0\staticwebassets.build.json

@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/1.2vpuv6i9s5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2vpuv6i9s5"},{"Name":"integrity","Value":"sha256-bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc="},{"Name":"label","Value":"_content/Mango.Services.ProductAPI/ProductImages/1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79358"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 20:55:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"79358"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bpU/Ptr7jR1ZSKVJpncU9ahsq/IvpWyWc6WKH3U9zEc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 20:55:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/11.0xnvdghy80.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\11.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0xnvdghy80"},{"Name":"integrity","Value":"sha256-LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8="},{"Name":"label","Value":"_content/Mango.Services.ProductAPI/ProductImages/11.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"71917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 21:14:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/11.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\11.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"71917"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LHglY4HBxdqVyrkL6NKkNacSuqA37oQg1Mu6PBWhdy8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 21:14:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/12.afqsbczg8e.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"afqsbczg8e"},{"Name":"integrity","Value":"sha256-OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY="},{"Name":"label","Value":"_content/Mango.Services.ProductAPI/ProductImages/12.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"58133"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 21:27:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/12.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"58133"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OsAOstThAizsXZ0vaHVUa0kGd5DjQBw1ILY9/o7gxbY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 21:27:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-09OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK\u002BhMys="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"86452"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002209OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK\u002BhMys=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 20:43:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/2.n7k6cfk74b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n7k6cfk74b"},{"Name":"integrity","Value":"sha256-09OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK\u002BhMys="},{"Name":"label","Value":"_content/Mango.Services.ProductAPI/ProductImages/2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86452"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002209OYkpHa1agm1F0GYmCvY0lzdvQ/k40bKxnwAK\u002BhMys=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 20:43:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"71045"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 20:50:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/3.jz7agbh6xs.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jz7agbh6xs"},{"Name":"integrity","Value":"sha256-7/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk="},{"Name":"label","Value":"_content/Mango.Services.ProductAPI/ProductImages/3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"71045"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227/L8BWYPFR4u8RzOQdHlAwPMB5rjyC9OhQmLRC3L8Vk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 20:50:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"147881"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 21:07:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mango.Services.ProductAPI/ProductImages/4.n7ia496m75.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductImages\4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n7ia496m75"},{"Name":"integrity","Value":"sha256-TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8="},{"Name":"label","Value":"_content/Mango.Services.ProductAPI/ProductImages/4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"147881"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TV0D0u3etrruke6gwrbRn0iwBMGGF9gXy2UH08DD9x8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 28 May 2025 21:07:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
